@@ -1,0 +1,6 @@
+opencv-python
+xmltodict
+matplotlib
+torch
+torchvision
+tensorflow
